@@ -2,7 +2,7 @@
 
 namespace Spatie\Activitylog\Models;
 
-use Eloquent;
+use Jenssegers\Mongodb\Model as Eloquent;
 use Config;
 use Exception;
 
